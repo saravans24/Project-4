@@ -9,9 +9,8 @@ Here's the Live Deployed Website ![Project 4](https://img.shields.io/badge/Proje
 ![Completed Website](./4.png)
 
 ## What I learned from this Project?
-- I learned how to use HTML and CSS to create a beutiful website.
-- I learned how to use margin and padding.
-- I learned to embed font from google font
-- I learned about flexbox
+- I learned how to add use Illustrations to make your website beautiful.
+- I learned to embed font from google font.
+- I learned about flexbox.
 
 ## This project took around 1.5 hours to complete.
